@@ -1,6 +1,6 @@
 # Chaos_Analysis_Softwares
 
-***<u>Analiz yazılımının yerelde çalışması için gerekli olan terminal kodları;</u>***
+<u>***Analiz yazılımının yerelde çalışması için gerekli olan terminal kodları;***</u>
 
 
 * Yerelde venv (virtual environment) ortamının oluşturulması için terminalde kodu ile çalıştırılmaktadır; <br>
