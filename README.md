@@ -16,3 +16,5 @@
     ***streamlit run Anasayfa.py***
 
    şeklindedir.
+
+  30.10.2024 itibariyle Lyapunov üsteli bitmiştir. Test etmek için samples klasörü içindeki csv dosyaları mevcuttur. 
