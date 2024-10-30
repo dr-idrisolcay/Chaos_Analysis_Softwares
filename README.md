@@ -4,7 +4,7 @@ Analiz yazılımının yerelde çalışması için gerekli olan terminal kodlar�
 
 
 * Yerelde venv (virtual environment) ortamının oluşturulması için terminalde kodu ile çalıştırılmaktadır; <br>
-      *python -m venv venv* 
+      **python -m venv venv** 
 
 * Oluşturulan ortamı aktif etmek için terminal kodu ile çalıştırılmaktadır;  <br>
       *.\venv\Scripts\activate*
