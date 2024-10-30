@@ -9,7 +9,7 @@
 * Oluşturulan ortamı aktif etmek için terminal kodu ile çalıştırılmaktadır;  <br>
       ***.\venv\Scripts\activate***
 
-* Gerekli olan bütün kütüphanlerin yüklenmesi için terminalde;  <br>
+* Gerekli olan kütüphanlerin yüklenmesi için terminalde;  <br>
       ***pip install -r requirements.txt***
 
 * Uygulamanın çalıştırılıp web uygulamasının ayağı kaldırılması için terminal kodu;  <br>
